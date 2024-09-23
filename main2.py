@@ -112,7 +112,7 @@
 # sk2 = int(input())
 # print(f'{sk1} pakelta {sk2}-uoju laipsniu yra: {sk1**sk2}')
 
-
+#
 print('iveskite pirma skaiciu:')
 sk1 = int(input())
 print('iveskite antra skaiciu:')
@@ -140,3 +140,7 @@ if sk2 % 4 == 0:
     print('antras skaicius dalinasi is 4')
 if sk3 % 8 == 0:
     print('trecias skaicius dalinasi is 8')
+
+# git config --global user.name "anemonemon"
+# git config --global user.email "monika.skink@gmail.com"
+print('hello')
